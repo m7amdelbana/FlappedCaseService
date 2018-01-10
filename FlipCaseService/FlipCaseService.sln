@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipCaseService", "FlipCaseService\FlipCaseService.csproj", "{7C6C14DF-F4B0-4A54-9D15-E9973DFE1B19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "XML", "XML", "{71D3C0BB-8B0B-4DBF-BCFB-4520563D08A5}"
+	ProjectSection(SolutionItems) = preProject
+		XMLElements.xml = XMLElements.xml
+		XMLMix.xml = XMLMix.xml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplicationClient", "ConsoleApplicationClient\ConsoleApplicationClient.csproj", "{32114A36-B747-46B9-973C-D7B49E1195C5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7C6C14DF-F4B0-4A54-9D15-E9973DFE1B19} = {7C6C14DF-F4B0-4A54-9D15-E9973DFE1B19}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C6C14DF-F4B0-4A54-9D15-E9973DFE1B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6C14DF-F4B0-4A54-9D15-E9973DFE1B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6C14DF-F4B0-4A54-9D15-E9973DFE1B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6C14DF-F4B0-4A54-9D15-E9973DFE1B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32114A36-B747-46B9-973C-D7B49E1195C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32114A36-B747-46B9-973C-D7B49E1195C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32114A36-B747-46B9-973C-D7B49E1195C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32114A36-B747-46B9-973C-D7B49E1195C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

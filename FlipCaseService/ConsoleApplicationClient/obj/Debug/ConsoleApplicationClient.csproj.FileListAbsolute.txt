@@ -1,0 +1,6 @@
+D:\Mohamed Elbana\Applications\WCF\FlipCaseService\ConsoleApplicationClient\bin\Debug\ConsoleApplicationClient.exe.config
+D:\Mohamed Elbana\Applications\WCF\FlipCaseService\ConsoleApplicationClient\bin\Debug\ConsoleApplicationClient.exe
+D:\Mohamed Elbana\Applications\WCF\FlipCaseService\ConsoleApplicationClient\bin\Debug\ConsoleApplicationClient.pdb
+D:\Mohamed Elbana\Applications\WCF\FlipCaseService\ConsoleApplicationClient\obj\Debug\ConsoleApplicationClient.csprojResolveAssemblyReference.cache
+D:\Mohamed Elbana\Applications\WCF\FlipCaseService\ConsoleApplicationClient\obj\Debug\ConsoleApplicationClient.exe
+D:\Mohamed Elbana\Applications\WCF\FlipCaseService\ConsoleApplicationClient\obj\Debug\ConsoleApplicationClient.pdb

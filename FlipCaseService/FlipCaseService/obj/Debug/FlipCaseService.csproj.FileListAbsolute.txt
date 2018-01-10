@@ -1,0 +1,6 @@
+D:\Mohamed Elbana\Applications\WCF\FlipCaseService\FlipCaseService\bin\Debug\FlipCaseService.dll.config
+D:\Mohamed Elbana\Applications\WCF\FlipCaseService\FlipCaseService\bin\Debug\FlipCaseService.dll
+D:\Mohamed Elbana\Applications\WCF\FlipCaseService\FlipCaseService\bin\Debug\FlipCaseService.pdb
+D:\Mohamed Elbana\Applications\WCF\FlipCaseService\FlipCaseService\obj\Debug\FlipCaseService.csprojResolveAssemblyReference.cache
+D:\Mohamed Elbana\Applications\WCF\FlipCaseService\FlipCaseService\obj\Debug\FlipCaseService.dll
+D:\Mohamed Elbana\Applications\WCF\FlipCaseService\FlipCaseService\obj\Debug\FlipCaseService.pdb
